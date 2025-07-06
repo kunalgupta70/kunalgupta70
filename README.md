@@ -1,5 +1,9 @@
 # 💫 About Me:
-🎯 Data Analytics Expert<br>🚀 Driving Business Growth: Harnessing the power of data insights to elevate strategic decision-making.<br>📈 Analyzing Trends for Success: Spotting and interpreting trends to steer business strategies toward success.<br>🛠️ Technical Skills<br>☕ Java: Skilled in using Java for efficient data processing and analysis.<br>🐍 Python: Expertise in Python for statistical analysis and innovative machine learning solutions.<br>📊 SQL: Strong command of SQL for effective data querying and robust database management.<br>📉 Excel: Advanced Excel wizardry for comprehensive data manipulation and insightful visualization.<br>🌟 Power BI: Proficient in Power BI for crafting interactive dashboards and compelling reports.
+I am a highly motivated and detail-oriented Manual Testing enthusiast with hands-on experience in testing web applications through self-practice and internship. I have worked on real-time projects like login module testing, product search, and cart functionality, where I designed and executed test cases, logged bugs, and created test summary reports.
+
+I have a strong understanding of SDLC, STLC, test case design techniques, and bug lifecycle. I’m proficient in writing clear and structured test cases in Excel, reporting defects, and doing functional and UI testing.
+
+Currently, I am actively seeking a Manual Testing job opportunity where I can contribute my skills and grow as a QA professional.
 
 
 ## 🌐 Socials:
